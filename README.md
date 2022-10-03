@@ -1,4 +1,4 @@
-# LinearityTubinObservatoryCCDs
+# LinearityRubinObservatoryCCDs
 Brief tutorial on exploring Linearizer Data for the CCDs of the Vera C. Rubin Observatory through the Rubin Science Platform (RSP).
 
 For this notebook to run you need to have access to the Rubin Science Platform. 
